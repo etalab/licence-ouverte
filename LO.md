@@ -58,7 +58,7 @@ Sont considérés, au sens de la présente licence comme :
     -   toute information mise à disposition par toute personne selon les termes et conditions de la présente licence.
 -   La « **Réutilisation** » : l’utilisation de l’« Information » à d’autres fins que celles pour lesquelles elle a été produite ou reçue.
 -   Le « **Réutilisateur** » : toute personne qui réutilise les « Informations »  conformément aux conditions de la présente licence.
--   des « **Données à caractère personnel** » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.
+-   Des « **Données à caractère personnel** » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.
 -   Une « **Information dérivée** » : toute nouvelle donnée ou information créées directement à partir de l’« Information » ou à partir d’une combinaison  de l’ « Information » et d’autres données ou informations non  soumises à cette licence.
 -   Les « **Droits de propriété intellectuelle** » : tous droits identifiés comme tels par le Code de la propriété intellectuelle (droit d’auteur, droits voisins au droit d’auteur, droit sui generis des producteurs de bases de données).
 
