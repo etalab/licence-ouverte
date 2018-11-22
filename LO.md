@@ -1,4 +1,4 @@
-# LICENCE OUVERTE 2.0
+# LICENCE OUVERTE 2.0/OPEN LICENCE 2.0
 
 ## Réutilisation de l’« Information » sous  cette licence
 
