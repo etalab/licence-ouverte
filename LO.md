@@ -1,6 +1,6 @@
-# LICENCE OUVERTE 2.0 / OPEN LICENCE 2.0
+# LICENCE OUVERTE 2.0
 
-## Réutilisation de l’ « Information » sous  cette licence
+## Réutilisation de l’« Information » sous  cette licence
 
 Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit de libre  « Réutilisation » de l’« Information » objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.
 
@@ -22,9 +22,11 @@ Dans le cas d’une réutilisation de la base SIRENE de l’INSEE, mentionner l�
 
 Cette mention de paternité ne doit ni conférer un caractère officiel à la « Réutilisation » de l’« Information », ni suggérer une quelconque reconnaissance ou caution par le « Concédant », ou par toute autre entité publique, du « Réutilisateur » ou de sa « Réutilisation ».
 
-## Absence de droits restreignant la « Réutilisation »
+## Données à caractère personnel
 
-L’ « Information » mise à disposition peut contenir des « Données à caractère personnel » pouvant faire l’objet d’une « Réutilisation ». Alors, le « Concédant » informe le « Réutilisateur » (par tous moyens) de leur présence, l’ « Information » peut être librement réutilisée, sans faire obstacle aux libertés accordées par la présente licence, à condition de respecter le cadre légal relatif à la protection des données à caractère personnel.
+L’« Information » mise à disposition peut contenir des « Données à caractère personnel » pouvant faire l’objet d’une « Réutilisation ». Alors, le « Concédant » informe le « Réutilisateur » (par tous moyens) de leur présence, l’ « Information » peut être librement réutilisée, sans faire obstacle aux libertés accordées par la présente licence, à condition de respecter le cadre légal relatif à la protection des données à caractère personnel.
+
+## Droits de propriété intellectuelle
 
 Il est garanti au « Réutilisateur » que l’ « Information » ne contient pas de « Droits de propriété intellectuelle »  appartenant à des tiers qui pourraient faire obstacle aux libertés qui lui sont accordées par la présente licence.
 
