@@ -2,7 +2,7 @@
 
 ## Réutilisation de l’ « Information » sous  cette licence
 
-Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit de libre  « Réutilisation » de l’«Information » objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.
+Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit de libre  « Réutilisation » de l’« Information » objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.
 
 **Le « Réutilisateur » est libre de réutiliser l’« Information » :**
 
