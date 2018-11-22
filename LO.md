@@ -6,13 +6,13 @@ Le « Concédant » concède au « Réutilisateur » un droit non exclusif e
 
 **Le « Réutilisateur » est libre de réutiliser l’« Information » :**
 
-* de la communiquer, la reproduire, la copier ;
-* de l’adapter, la modifier, l’extraire et la transformer, notamment pour créer des « Informations dérivées » ;
-* de la diffuser, la redistribuer, la publier et la transmettre, de l’exploiter à titre commercial, par exemple en la combinant avec d’autres informations, ou en l’incluant dans votre propre produit ou application.
+-   de la communiquer, la reproduire, la copier ;
+-   de l’adapter, la modifier, l’extraire et la transformer, notamment pour créer des « Informations dérivées » ;
+-   de la diffuser, la redistribuer, la publier et la transmettre, de l’exploiter à titre commercial, par exemple en la combinant avec d’autres informations, ou en l’incluant dans votre propre produit ou application.
 
 **Sous réserve de :**
 
-* mentionner la paternité de l’«Information» : sa source (a minima le nom du  « Concédant ») et la date de la dernière mise à jour de l’« Information » réutilisée.
+-   mentionner la paternité de l’«Information» : sa source (a minima le nom du  « Concédant ») et la date de la dernière mise à jour de l’« Information » réutilisée.
 
 Le « Réutilisateur » peut notamment s’ acquitter de cette condition en indiquant l’adresse (URL) renvoyant vers « l’Information » et assurant une mention effective de sa paternité.
 
@@ -50,15 +50,15 @@ Elle a été conçue pour être compatible avec toute licence libre qui exige _a
 
 Sont considérés, au sens de la présente licence comme :
 
-* Le « **Concédant** » : toute personne concédant un droit de « Réutilisation » sur l’« Information » dans les libertés et les conditions prévues par la présente licence.
-* L’« **Information** » :
-  * toute information publique figurant dans des documents communiqués ou publiés par une administration mentionnée au premier alinéa de l’article L.300-2 du CRPA ;
-  * toute information mise à disposition par toute personne selon les termes et conditions de la présente licence.
-* La « **Réutilisation** » : l’utilisation de l’« Information » à d’autres fins que celles pour lesquelles elle a été produite ou reçue.
-* Le « **Réutilisateur** » : toute personne qui réutilise les « Informations »  conformément aux conditions de la présente licence.
-* des « **Données à caractère personnel** » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.
-* Une « **Information dérivée** » : toute nouvelle donnée ou information créées directement à partir de l’« Information » ou à partir d’une combinaison  de l’ « Information » et d’autres données ou informations non  soumises à cette licence.
-* Les « **Droits de propriété intellectuelle** » : tous droits identifiés comme tels par le Code de la propriété intellectuelle (droit d’auteur, droits voisins au droit d’auteur, droit sui generis des producteurs de bases de données).
+-   Le « **Concédant** » : toute personne concédant un droit de « Réutilisation » sur l’« Information » dans les libertés et les conditions prévues par la présente licence.
+-   L’« **Information** » :
+    -   toute information publique figurant dans des documents communiqués ou publiés par une administration mentionnée au premier alinéa de l’article L.300-2 du CRPA ;
+    -   toute information mise à disposition par toute personne selon les termes et conditions de la présente licence.
+-   La « **Réutilisation** » : l’utilisation de l’« Information » à d’autres fins que celles pour lesquelles elle a été produite ou reçue.
+-   Le « **Réutilisateur** » : toute personne qui réutilise les « Informations »  conformément aux conditions de la présente licence.
+-   des « **Données à caractère personnel** » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.
+-   Une « **Information dérivée** » : toute nouvelle donnée ou information créées directement à partir de l’« Information » ou à partir d’une combinaison  de l’ « Information » et d’autres données ou informations non  soumises à cette licence.
+-   Les « **Droits de propriété intellectuelle** » : tous droits identifiés comme tels par le Code de la propriété intellectuelle (droit d’auteur, droits voisins au droit d’auteur, droit sui generis des producteurs de bases de données).
 
 ## À propos de cette licence
 
