@@ -1,0 +1,13 @@
+* Licence Ouverte
+
+Ce dépôt contient la licence Ouverte publiée par [[https://www.etalab.gouv.fr][Etalab]] et recommandée pour la publication des données publiques.
+
+Pour plus d'éléments de contexte, voir [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][cette page]].
+
+Pour d'autres licences applicables, notamment aux codes sources publiés par l'administration, voir [[https://www.data.gouv.fr/fr/licences][la liste des licences autorisées]].
+
+Le dépôt contient une [[file:LO.md][version française]] et une [[file:open-licence.md][version anglaise]], toutes deux au format `markdown` pour faciliter leur inclusion dans les dépôts.
+
+* Auteur
+
+Etalab/DINSIC 2019.
