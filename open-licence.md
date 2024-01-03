@@ -53,13 +53,13 @@ Within the meaning of this license, are to be considered as:
 
 - The "Grantor": any person granting the right to "Reuse" "Information" under the rights and conditions set out in this license.
 - The "Information":
-  - any public information contained in documents disclosed or published by any administration referred to in the first paragraph of Article L. 300-2 of the code des relations entre le public et l'administration (CRPA),
+  - any public information contained in documents disclosed or published by any administration referred to in the first paragraph of Article L. 300-2 of the _Code des relations entre le public et l'administration (CRPA)_,
   - any information made available by any person under the terms and conditions of this license.
 - The "Reuse": the use of the "Information" for other purposes than those for which it was produced or received.
 - The "Reuser": any person reusing the "Information" in accordance with the conditions of this license.
 - "Personal data": any information relating to an identified or identifiable natural person who may be identified directly or indirectly. Its "Reuse" is conditional on the respect of the existing legal framework.
 - "Derived information": any new data or information created directly from the "Information" or from a combination of the "Information" and other data or information not subject to this license.
-- "Intellectual property rights": all rights identified as such under the code de la propriété intellectuelle (including copyright, rights related to copyright, sui generis rights of database producers, etc.).
+- "Intellectual property rights": all rights identified as such under the _Code de la propriété intellectuelle_ (including copyright, rights related to copyright, sui generis rights of database producers, etc.).
 
 ## About this license
 
@@ -67,7 +67,7 @@ This license is intended to be used by administrations for the reuse of their pu
 
 France has a comprehensive legal framework aiming at the spontaneous dissemination by the administrations of their public information in order to ensure the widest possible reuse of this information.
 
-The right to "Reuse" the administrations' "Information" is governed by the code des relations entre le public et l'administration (CRPA).
+The right to "Reuse" the administrations' "Information" is governed by the _Code des relations entre le public et l'administration (CRPA)_.
 
 This license facilitates the unrestricted and free of charge reuse of public information and is one of the licenses which can be used by the administration pursuant to the decree issued under article L. 323-2 of the CRPA.
 
