@@ -15,7 +15,7 @@ The "Grantor" grants the "Reuser" the free, non-exclusive right to "Reuse" the "
 
 - An acknowledgement of the authorship of the "Information": its source (at least, the name of the "Grantor") and the date of the most recent update of the reused "Information".
 
-Specifically, the "Reuser" may satisfy this condition by pointing, via a hypertext link, to the source of "the Information" and so supplying an actual acknowledgement of its authorship.
+Specifically, the "Reuser" may satisfy this condition by pointing, via a hypertext link, to the source of the "Information" and so supplying an actual acknowledgement of its authorship.
 
 **For example:**
 
