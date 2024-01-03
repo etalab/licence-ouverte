@@ -56,7 +56,7 @@ Within the meaning of this license, are to be considered as :
   - any public information contained in documents disclosed or published by any administration referred to in the first paragraph of Article L. 300-2 of the code des relations entre le public et l'administration (CRPA),
   - any information made available by any person under the terms and conditions of this license.
 - The "Reuse": the use of the "Information" for other purposes than those for which it was produced or received.
-- The"Reuser": any person reusing the "Information" in accordance with the conditions of this license.
+- The "Reuser": any person reusing the "Information" in accordance with the conditions of this license.
 - "Personal data": any information relating to an identified or identifiable natural person who may be identified directly or indirectly. Its "Reuse" is conditional on the respect of the existing legal framework.
 - "Derived information": any new data or information created directly from the "Information" or from a combination of the "Information" and other data or information not subject to this license.
 - "Intellectual property rights": all rights identified as such under the code de la propriété intellectuelle (including copyright, rights related to copyright, sui generis rights of database producers, etc.).
