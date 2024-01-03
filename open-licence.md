@@ -49,7 +49,7 @@ This license has been designed to be compatible with any free license that at le
 
 ## Definitions
 
-Within the meaning of this license, are to be considered as :
+Within the meaning of this license, are to be considered as:
 
 - The "Grantor": any person granting the right to "Reuse" "Information" under the rights and conditions set out in this license.
 - The "Information":
