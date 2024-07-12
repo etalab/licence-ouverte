@@ -77,3 +77,5 @@ Etalab est la mission chargée, sous l’autorité du Premier ministre, d’ouvr
 Cette licence est une version 2.0 de la Licence Ouverte.
 
 Etalab se réserve la faculté de proposer de nouvelles versions de la Licence Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les informations disponibles sous cette licence s’ils le souhaitent.
+
+dara
